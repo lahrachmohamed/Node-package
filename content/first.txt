@@ -1,0 +1,1 @@
+this is how to read a file with node js
